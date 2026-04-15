@@ -1,5 +1,11 @@
 package PolymorphismIntro;
 
+
+// Polymorphism is the ability of one method or object to take many forms.
+// It allows a single reference to call different methods depending on the
+// actual object it refers to.
+
+
 class Plane {
 	void takeOff() {
 		System.out.println("Plane is taking off");

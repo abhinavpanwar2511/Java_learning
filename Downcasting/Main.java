@@ -1,5 +1,11 @@
 package Downcasting;
 
+// It is the process of casting a superclass reference back to a subclass type. 
+// It is primarily used to regain access to subclass-specific methods and 
+// fields that are hidden when an object is referenced as its superclass.
+
+
+
 class Plane {
 	void takeOff() {
 		System.out.println("Plane is taking off");

@@ -1,5 +1,11 @@
 package MethodOverloading;
 
+
+// Method overloading means multiple methods with the same
+// name but different parameters(number or type) in the same class.
+
+
+
 class Calculator {
 	int add(int a, int b) {
 		return a+b;

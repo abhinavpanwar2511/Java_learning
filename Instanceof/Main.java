@@ -1,5 +1,13 @@
 package Instanceof;
 
+
+// The instanceof operator in Java is a comparison operator used to 
+// determine if an object is an instance of a specific class, subclass, 
+// or interface. It returns a boolean value (true or false) and is primarily 
+// used for runtime type checking to ensure safe downcasting and avoid ClassCastException.
+
+
+
 class Parent {
 	void display1() {
 		System.out.println("Parent class display1");

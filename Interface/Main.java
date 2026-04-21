@@ -1,7 +1,10 @@
 package Interface;
 
 
-// An Interface in Java programming language is defined as an abstract type used to specify the behaviour of a class. An interface in Java is a blueprint of a behaviour(method). A Java interface contains static constants static constants and abstract methods.
+// An Interface in Java programming language is defined as an abstract 
+// type used to specify the behaviour of a class. An interface in Java 
+// is a blueprint of a behaviour(method). A Java interface contains static 
+// constants static constants and abstract methods.
 
 
 interface Robot {

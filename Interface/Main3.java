@@ -1,5 +1,12 @@
 package Interface;
 
+// One interface can extend another interface.
+// But cannot implements another interface.
+
+// A class can extends another class and also implements interface at the same time.
+
+// We can only have static final variables in interface.
+
 interface Calculator1
 {
 	void add();

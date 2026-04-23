@@ -1,5 +1,11 @@
 package Interface;
 
+// We can have empty interface. It is also called as Marker interface or Tagged interface.
+
+// Interface can have default methods int it.
+
+// Interface can have static methods, private methods.
+
 interface Demo
 {
 	void display1();
